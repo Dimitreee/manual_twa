@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <button id="install-btn" style={{display: "none"}}>Install App</button>
       </header>
     </div>
   );
